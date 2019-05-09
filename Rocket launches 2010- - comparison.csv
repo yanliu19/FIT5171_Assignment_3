@@ -1,0 +1,136 @@
+Vehicle,Origin,Manufacturer,Mass to … (kg),,,"Launches
+ (+ suborbital)",Date of flight,
+,,,LEO,GTO,Other,,First[a],Latest
+Angara 1.2,Russia,Khrunichev,"3,500[1]",,,0 (+1)[2],2014,
+Angara A5,Russia,Khrunichev,"24,000[1]","7,500 with KVTK
+ 5,400 with Briz-M [1]",,1,2014,2014
+Antares 230,United States,Orbital ATK,"8,000[3]",,"3,600 to SSO",2[4],2016,2017
+Ariane 5 ECA,Europe,EADS Astrium,"21,000[5]","11,115[6][7]",,65[8],2002,2018
+Ariane 5 ES,Europe,EADS Astrium,"21,000[5]","8,000[8]",,7[8],2008,2017[b]
+Ariane 6 A62,Europe,ArianeGroup,,"4,500[9]","7,000 to SSO",0,2020,
+Ariane 6 A64,Europe,ArianeGroup,"20,000[9]","12,000","4,100 to GEO [10]",0,2020,
+Arion 2,Spain,PLD Space,150[11],,,0,2021,
+Atlas V 401,United States,ULA,"9,050[12]","4,950","6,670 to SSO",37[12],2002,2017
+Atlas V 411,United States,ULA,"9,050[12]","6,075","8,495 to SSO",4[12],2006,2016
+Atlas V 421,United States,ULA,"9,050[12]","7,000","9,050 to SSO",7[12],2007,2017
+Atlas V 431,United States,ULA,"9,050[12]","7,800","9,050 to SSO",3[12],2005,2016
+Atlas V 501,United States,ULA,"8,250[12]","3,970","5,945 to SSO
+ 1,500 to GEO",6[12],2010,2015
+Atlas V 511,United States,ULA,"10,950[12]","5,370","7,820 to SSO
+ 1,750 to GEO",0[12],,
+Atlas V 521,United States,ULA,"13,300[12]","6,485","9,585 to SSO
+ 2,760 to GEO",2[12],2003,2004
+Atlas V 531,United States,ULA,"15,300[12]","7,425","11,160 to SSO
+ 3,250 to GEO",3[12],2010,2013
+Atlas V 541,United States,ULA,"17,100[12]","8,240","12,435 to SSO
+ 3,730 to GEO",5[12],2011,2017
+Atlas V 551,United States,ULA,"18,500[12]","8,700","13,550 to SSO
+ 3,960 to GEO",7[12],2006,2016
+Atlas V 552,United States,ULA,"20,520[13]",,,0,2020[14],
+"Atlas V N22[15]
+ (for Starliner)",United States,ULA,"13,000[16]",,,0,2018[17],
+BFR,United States,SpaceX,"150,000 reusable
+ 250,000 expended[18]",,"150,000 to TMI
+ (via in-orbit refueling)[19]",0,2022[19],
+Cyclone-4M,Ukraine,"Yuzhnoye
+ Yuzhmash","5,000[20]","1,000[21]","3,350 to SSO[20]",0,2020,
+Delta II 7420,United States,ULA,"3,185[22]",,"1,966 to SSO",13[22],1998,2010[b]
+"Delta IV M+(4,2)",United States,ULA,"13,140[23]","6,390","10,250 to polar",14[24],2002,2016[c]
+"Delta IV M+(5,4)",United States,ULA,"14,140[23]","7,300","11,600 to polar",7[24],2009[25],2017[b]
+Delta IV Heavy,United States,ULA,"28,790[23]","14,220","23,560 to polar",9[24],2004,2016
+Electron,"United States
+  New Zealand",Rocket Lab,225[26],,150 to SSO[26],1 (+1),2017,2018
+Epsilon,Japan,IHI[27],"1,500[28]",,590 to SSO,3,2013,2018
+Eris,"Australia
+  Singapore",Gilmour Space Technologies,380[29],,,0,Q4 2020,
+Falcon 9 Full Thrust,United States,SpaceX,"22,800 expended[30] (PAF structural limit: 10,886)[31]","8,300 expended
+ 5,500 reusable","4,020 expended to TMI",29[32],2015,2018
+Falcon Heavy,United States,SpaceX,"63,800 expended[30]","26,700 expended","16,800 expended to TMI",1,2018,2018
+GSLV Mk II,India,ISRO,"5,000[33]","2,500",,5,2010,2017
+GSLV Mk III,India,ISRO,"10,000[34]","4,000",,1[34] (+1)[35],2014[d],2017
+H-IIA 202,Japan,Mitsubishi,"10,000[36]","4,100","3,300 to SSO[37]",23[36],2001,2017
+H-IIA 204,Japan,Mitsubishi,,"6,000[36]",,4[36],2006,2017
+H-IIB,Japan,Mitsubishi,"16,500[38]","8,000",,6[38],2009,2016
+H3,Japan,Mitsubishi,"16,500","6,500[39]","4,000 to SSO",0,2020[39],
+Kuaizhou,China,CASIC / ExPace,400[40],,,3[40],2013,2017
+KSLV-2,South Korea,KARI,"1,500 at 600–800 km[41]",,,0,2021[41],
+Long March 2C,China,CALT,"3,850","1,250 with CTS2","2,100 to SSO with CTS1",50[42],1982,2017
+Long March 2D,China,SAST,"4,000",,"1,150 to SSO",37[42],1992,2018
+Long March 2F,China,CALT,"8,600",,,13[42],1999,2016
+Long March 3A,China,CALT,"6,000[43]","2,600","5,000 to SSO",25[44],1994,2016
+Long March 3B/E,China,CALT,"11,500[43]","5,500","6,900 to SSO",31[44],2007,2018
+Long March 3C,China,CALT,"9,100[43]","3,800",,15[44],2008,2016
+Long March 4B,China,SAST,"4,200[45]","1,500","2,800 to SSO",29[45],1999,2017
+Long March 4C,China,SAST,"4,200[45]","1,500","2,800 to SSO",21[45],2006,2017
+Long March 5,China,CALT,"25,000[46]","14,000","15,000 to SSO[47]
+ 8,200 to TLI[48]
+ 5,000 to TMI[48]",1 (+1)[49],2016,2017
+Long March 6,China,SAST,,,"1,080 to SSO[50]",2[51],2015,2017
+Long March 7,China,CALT,"13,500[52]",,"5,500 to SSO",2,2016[53],2017
+Long March 8,China,CALT,"7,600[54]","2,500","4,500 to SSO",0,2018,
+Long March 9[55],China,CALT,"140,000[56]","66,000","50,000 to TLI
+ 37,000 to TMI",0,2028[56],
+Long March 11,China,CALT,700[57],,350 to SSO,3,2015[58],2018
+Minotaur I,United States,Orbital,580[59],,,10[60],2000,2013
+Minotaur IV,United States,Orbital,"1,735[61]",,,4 (+2)[62],2010,2017
+Minotaur V,United States,Orbital,,640,447 to TLI,1[62],2013,2013
+Minotaur-C (Taurus)[63],United States,Orbital,"1,450[64]",,"1,050 to SSO",10[65],1994,2017
+Naga-L,China,CALT,"1,590 from Indonesia[66]",,820 to SSO from China[66],0,2017[66] [needs update],
+New Glenn,United States,Blue Origin,"45,000[67]","13,000",,0,2020[68],
+Pegasus,United States,Orbital,443[69],,,43[70],1990,2016
+Proton-M / M+,"Russia
+  Soviet Union",Khrunichev,"23,000 (M+)[71]
+ 21,600 (M)[72]","6,920 (M+)
+ 6,150 (M)",,102[73][74][75],2001,2017
+Proton Light,Russia,Khrunichev,,"3,600[76]","1,450 to GSO",0,2019[77],
+Proton Medium,Russia,Khrunichev,,"5,000[76]","3,300 to GSO",0,2018[77],
+PSLV-G,India,ISRO,"3,200[78]","1,050","1,600 to SSO",12[79],1993,2016
+PSLV-CA,India,ISRO,"2,800[78]",,"1,100 to SSO",11[79],2007,2015
+PSLV-XL,India,ISRO,"3,800[78]","1,300","1,750 to SSO
+ 1,350 to TMI",19[79],2008,2018
+Rokot,Russia,Khrunichev,"1,950[80]",,"1,200 to SSO",27[80],1990,2017
+Safir,Iran,Iranian Space Agency,50[81],,,4[82][83],2008,2015
+Shavit,Israel,IAI,300[84],,,10[85],1988,2016
+Simorgh,Iran,Iranian Space Agency,100–350[86],,,1 (+1)[87],2016,2017
+Space Launch System Block 1,United States,"NASA / Boeing (core)
+ Orbital ATK (SRBs)","70,000[88]",,"28,000 to escape",0,2019[89],
+SLS Block 1B,United States,"NASA / Boeing
+ Orbital ATK","105,000[90]",,"39,100 to TLI
+ 31,700 to TMI",0,2022,
+"SLS Block 2
+ with EUS",United States,"NASA / Boeing
+ Orbital ATK","130,000[90]",,"50,000 to TLI
+ 45,000 to TMI",0,2025[91],
+Soyuz-FG,Russia,TsSKB-Progress,"6,900[92]",,,62[93][94],2001,2017
+Soyuz-2.1a,Russia,TsSKB-Progress,"7,020 from Baikonur[95]",,,27 (+1) [96][97][94],2004[e],2017
+Soyuz-2.1b,Russia,TsSKB-Progress,"8,200 from Baikonur[95]","2,400[98]",,25[99][94],2006,2017
+Soyuz ST-A,"Russia
+  Europe","TsSKB-Progress
+ Arianespace","7,800 from Kourou[100]","2,810 with Fregat[101]",,5[94],2011,2017
+Soyuz ST-B,"Russia
+  Europe","TsSKB-Progress
+ Arianespace","9,000 from Kourou[102]","3,250 with Fregat-MT[101]",,12[94],2011,2017
+Soyuz-2.1v,Russia,TsSKB-Progress,"2,800 from Plesetsk[103]",,,3[104],2013,2017
+Soyuz-5,Russia,"TsSKB-Progress
+ RSC Energia","17,000[105]",,,0,2022[105],
+Soyuz-5 Super Heavy,Russia,"TsSKB-Progress
+ RSC Energia","88,000 in penta-core Energia-5 configuration[106] 110,000-160,000 with further upgrades",,,0,2028[107],
+SS-520,Japan,IHI Aerospace,4[108],,,2,2017[109],2018[110]
+Strela,Russia,Khrunichev,"1,400[111]",,,3[112],2003,2014
+Tronador II,Argentina,CONAE,200,,,0,2020,
+Unha,North Korea,KCST,100[113],,,4[114],2009,2016
+ULV,India,ISRO,"15,000[115]","6,000",,0,2021[116],
+Vector-R,United States,Vector Space Systems,64[117],,,0 (+2),2018[117],
+Vector-H,United States,Vector Space Systems,105[118],,,0,2019,
+Vega,Europe,ESA / ASI,"1,500",,"1,430 to polar[119] 1,330 to SSO",11[120],2012,2017
+Vega C,Europe,ESA / ASI,"2,300 [121]",,"2,200 to polar [122]",0,2019,
+Vega E,Europe,ESA / ASI,"3,000[123]",,,0,2024,
+"Vulcan 561
+ with ACES",United States,ULA,,"15,100[124]","7,300 to GSO[124]",0,2019,
+Vulcan Heavy,United States,ULA,,"23,000[124]",,0,,
+Yun Feng,Taiwan,NCSIST,200[125],,,0,,
+Zenit-3F,Ukraine,Yuzhnoye,,,"1,740 to GEO[126]",4[127],2011,2017
+Zenit-3SL,Ukraine,"Yuzhmash[f]
+ RSC Energia","7,000[127]","6,160",,36[127],1999,2014
+Zenit-3SLB / 3M,Ukraine,"Yuzhmash[g]
+ RSC Energia",,"3,750[127]",,6[127],2008,2013

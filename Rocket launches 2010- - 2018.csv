@@ -1,0 +1,205 @@
+Date and time (UTC),Rocket,,Launch site,,LSP,
+,Payload,Operator,Orbit,Function,Decay (UTC),Outcome
+,Remarks,,,,,
+January,,,,,,
+"8 January
+ 01:00",Falcon 9 Full Thrust,,Cape Canaveral SLC-40,,SpaceX,
+,Zuma (USA-280)[16],Unnamed U.S. government agency,Low Earth,Classified,8 January,"Launch success, satellite status classified"
+,"There were unconfirmed reports that the Zuma satellite failed to separate from the second stage due to an issue with the payload adapter provided by Northrop Grumman, who also manufactured the satellite.[13] However, given the classified nature of the mission, there may not be confirmation until declassification. SpaceX and the United States Air Force reviewed the Falcon 9 flight data and saw no issues with the launch vehicle itself that would effect future launches.[14][15]",,,,,
+"9 January
+ 03:24",Long March 2D,,Taiyuan LC-9,,CASC,
+,SuperView / Gaojing-1 03,Beijing Space View Technology,Low Earth (SSO),Earth observation,In orbit,Operational
+,SuperView / Gaojing-1 04,Beijing Space View Technology,Low Earth (SSO),Earth observation,In orbit,Operational
+"11 January
+ 23:18",Long March 3B / YZ-1,,Xichang LC-2,,CASC,
+,BeiDou-3 M7,CNSA,Medium Earth,Navigation,In orbit,Operational
+,BeiDou-3 M8,CNSA,Medium Earth,Navigation,In orbit,Operational
+"12 January
+ 03:58",PSLV-XL,,Satish Dhawan FLP,,ISRO,
+,Cartosat-2F,ISRO,Low Earth (SSO),Earth observation,In orbit,Operational
+,MicroSat-TD,ISRO,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,INS-1C,ISRO,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,LEO Vantage 1,Telesat,Low Earth (SSO),Communications,In orbit,Operational
+,ICEYE X1,ICEYE,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,PicSat,Paris Observatory,Low Earth (SSO),Astronomy,In orbit,Operational
+,Carbonite-2,Surrey Satellite Technology,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,"CANYVAL-X 1, 2","Yonsei University, NASA",Low Earth (SSO),Technology demonstration,In orbit,Operational
+,CNUSail-1,CNU,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,KAUSAT 5,Korea Aerospace University,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,STEP Cube Lab,Chosun University,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,Arkyd 6A,Planetary Resources,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,"Landmapper-BC
+ (Corvus-BC) 3 v2",Astro Digital,Low Earth (SSO),Earth observation,In orbit,Operational
+,Lemur-2 x4[20],Spire Global,Low Earth,Earth observation,In orbit,Operational
+,Flock-3p' x 4,Planet Labs,Low Earth (SSO),Earth observation,In orbit,Operational
+,MicroMAS 2a,MIT SSL,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,Tyvak 61C,Tyvak Nano-Satellite Systems,Low Earth (SSO),Astronomy,In orbit,Operational
+,DemoSat 2,?,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,Fox 1D,AMSAT,Low Earth (SSO),Technology demonstration,In orbit,Operational
+,SpaceBEE x 4,?,Low Earth (SSO),Communications,In orbit,Operational
+,CICERO 7,GeoOptics,Low Earth (SSO),Earth observation,In orbit,Operational
+,PSLV-C40 mission successfully carried and deployed 31 satellites.[17][18][19],,,,,
+"12 January
+ 22:11","Delta IV M+(5,2)",,Vandenberg SLC-6,,United Launch Alliance,
+,NROL-47 / Topaz-5[21] / USA-281,US Air Force,LEO (retrograde),Reconnaissance,In orbit,Operational
+,"Last flight of Delta IV M+(5,2) variant.",,,,,
+"13 January
+ 07:20",Long March 2D,,Jiuquan,,CASC,
+,LKW-3,CAS,Low Earth,Earth observation,In orbit,Operational
+"17 January
+ 21:06:11",Epsilon,,Uchinoura,,JAXA,
+,ASNARO-2,NEC,Low Earth (SSO),Earth observation,In orbit,Operational
+"19 January
+ 04:12",Long March 11[22],,Jiuquan LA-4/SLS-2,,CASC,
+,"Jilin-1 07
+ (Lingqiao-07)",CNSA,Low Earth (SSO),Earth observation,In orbit,Operational
+,"Jilin-1 08
+ (Lingqiao-08)",CNSA,Low Earth (SSO),Earth observation,In orbit,Operational
+,"Star of Enlai/
+ Huai'an Hao",Huai'an Youth Comprehensive Development Base,Low Earth (SSO),Technology/Education,In orbit,Operational
+,Xiaoxiang 2,SpaceTY Aerospace Co.,Low Earth (SSO),Stabilization technology,In orbit,Operational
+,"Quantutong-1
+ (QTT-1)","Full-chart Location Network Co.
+ (Quan Tu Tong Co.)",Low Earth (SSO),Communications,In orbit,Operational
+,Kepler 2[23],Kepler Communications,Low Earth (SSO),Communications,In orbit,Operational
+,100th launch from Jiuquan. Carried and deployed 6 satellites in total.,,,,,
+"20 January
+ 00:48",Atlas V 411,,Cape Canaveral SLC-41,,ULA,
+,SBIRS GEO-4 (USA-282),U.S. Air Force,Geosynchronous,Missile warning,In orbit,Operational
+"21 January
+ 01:30",Electron,,Rocket Lab Launch Complex 1,,Rocket Lab,
+,Still Testing,Rocket Lab,Low Earth,Orbital flight test,In orbit,Operational
+,Flock-2 (Dove Pioneer)[25],Planet Labs,Low Earth,Earth observation,In orbit,Operational
+,Lemur-2-72[26],Spire Global,Low Earth,Earth observation,In orbit,Operational
+,Lemur-2-73,Spire Global,Low Earth,Earth observation,In orbit,Operational
+,Humanity Star,Rocket Lab,Low Earth,Dummy Satellite,In orbit,Operational
+,"An unannounced satellite ""Humanity Star"", purported to be the “brightest thing in the night sky,” was launched together with other payloads.[24]",,,,,
+"25 January
+ 05:39",Long March 2C,,Xichang LC-3,,CASC,
+,Yaogan-30 J,CAS,Low Earth,Technology demonstration,In orbit,Operational
+,Yaogan-30 K,CAS,Low Earth,Technology demonstration,In orbit,Operational
+,Yaogan-30 L,CAS,Low Earth,Technology demonstration,In orbit,Operational
+,NanoSat-1A[27],CAS,Low Earth,Technology demonstration,In orbit,Operational
+"25 January
+ 22:20",Ariane 5 ECA,,Kourou ELA-3,,Arianespace,
+,SES-14 / GOLD,SES S.A.,Geosynchronous,Communications,In orbit,Partial launch failure / Operational[31]
+,Al Yah-3,Yahsat,Geosynchronous,Communications,In orbit,Partial launch failure / Operational
+,Ariane 5 flight VA241: due to programming errors in the on-board computer[28] the satellites were placed on an off-nominal orbit.[29] Both payloads are undergoing corrective maneuvers and will be on line in August [30],,,,,
+"31 January
+ 21:25",Falcon 9 Full Thrust,,Cape Canaveral SLC-40,,SpaceX,
+,SES-16 / GovSat-1,SES S.A.,Geosynchronous,Communications,In orbit,Operational
+,"Re-used booster B1032 recovered from the NROL-76 mission in May 2017. This rocket flew in its expendable configuration. Following a successful experimental ocean landing, the booster unexpectedly remained intact. A recovery attempt was not made and the booster was subsequently destroyed.[32]",,,,,
+"← Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec →
+ February",,,,,,
+"1 February
+ 02:07",Soyuz-2.1a / Fregat-M,,Vostochny Site 1S[33],,Roscosmos,
+,Kanopus-V No.3,Roscosmos,Low Earth (SSO),Earth observation,In orbit,Operational
+,Kanopus-V No.4,Roscosmos,Low Earth (SSO),Earth observation,In orbit,Operational
+,S-Net 1–4[34],TU Berlin,Low Earth (SSO),Technology demonstration (inter-satellite communications),In orbit,Operational
+,Lemur-2 x4,Spire Global,Low Earth,Earth observation,In orbit,Operational
+,Auriga[35],Dauria Aerospace,Low Earth (SSO),Earth observation,In orbit,Operational
+"2 February
+ 07:50",Long March 2D[36],,Jiuquan SLS-2,,CASC,
+,CSES / Zhangheng-1[37],CNSA / ASI,Low Earth (SSO),Earth observation,In orbit,Operational
+,Fengmaniu 1,CNSA,Low Earth (SSO),Earth observation,In orbit,Operational
+,GOMX 4A,"GOMSpace, Danish Ministry of Defence",Low Earth (SSO),Technology demonstration,In orbit,Operational
+,GOMX 4B,"GOMSpace, ESA",Low Earth (SSO),Technology demonstration,In orbit,Operational
+,ÑuSat 4,Satellogic,Low Earth (SSO),Earth observation,In orbit,Operational
+,ÑuSat 5,Satellogic,Low Earth (SSO),Earth observation,In orbit,Operational
+,Shaonian Xing[38],China Association for Science and Technology,Low Earth (SSO),Communications,In orbit,Operational
+"3 February
+ 05:03",SS-520,,Uchinoura,,JAXA,
+,TRICOM-1R,University of Tokyo,Low Earth,Technology demonstration,In orbit,Operational[39]
+,The smallest rocket to successfully launch a satellite. Re-flight after a launch failure in January 2017,,,,,
+"6 February
+ 20:45",Falcon Heavy,,Kennedy LC-39A,,SpaceX,
+,Elon Musk's Tesla Roadster,SpaceX,Heliocentric,Flight test,In orbit,Successful
+,"Maiden test flight of Falcon Heavy re-using two first-stage boosters. The two side boosters successfully touched down at the landing zones in Cape Canaveral, however the middle booster failed to land on the automated drone ship.[40] The test payload was launched in a heliocentric orbit with an aphelion of 1.70 AU, just beyond the orbit of Mars.[41]",,,,,
+"12 February
+ 05:10",Long March 3B / YZ-1[42],,Xichang LC-2,,CASC,
+,BeiDou-3 M3,CNSA,Medium Earth,Navigation,In orbit,Operational
+,BeiDou-3 M4,CNSA,Medium Earth,Navigation,In orbit,Operational
+"13 February
+ 8:13",Soyuz-2.1a,,Baikonur,,Roscosmos,
+,Progress MS-08 / 69P,Roscosmos,Low Earth (ISS),ISS logistics,In orbit,Operational
+"22 February
+ 14:17",Falcon 9 Full Thrust,,Vandenberg SLC-4E,,SpaceX,
+,PAZ,Hisdesat,Low Earth (SSO),Earth observation,In orbit,Operational
+,Tintin A,SpaceX,Low Earth,Technology Demonstration,In orbit,Operational
+,Tintin B,SpaceX,Low Earth,Technology Demonstration,In orbit,Operational
+,"Re-using a first-stage booster. This rocket flew in its expendable configuration so the first-stage booster was not recovered. An attempt to land one half of the payload fairing on a ship failed, the fairing landed in the ocean.",,,,,
+"27 February
+ 04:34:00–04:48:00[43]",H-IIA 202,,Tanegashima LA-Y1,,MHI,
+,IGS-Optical 6,CSICE,Low Earth (SSO),Reconnaissance,,
+"February (TBD)
+ [44]",Falcon 9 Full Thrust,,Cape Canaveral SLC-40,,SpaceX,
+,Hispasat 30W-6[45],Hispasat,Geosynchronous,Communications,,
+February (TBD)[46],??,,Taiyuan,,CASC,
+,Taurus-1,Aerospace System Engineering Research Institute of Shanghai,Low Earth (SSO),,,
+"← Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec →
+ March",,,,,,
+1 March[47],Electron,,Rocket Lab Launch Complex 1,,Rocket Lab,
+,ANDESITE,Boston University Center for Space Physics,Low Earth,Earth observation,,
+,CeREs,NASA,Low Earth,Earth observation,,
+,CHOMPTT,"NASA, UFL, Stanford University, KACST",Low Earth,Technology demonstration,,
+,"CubeSail 1, 2",University of Illinois at Urbana–Champaign,Low Earth,Technology demonstration,,
+,Da Vinci,North Idaho STEM Charter Academy,Low Earth,Technology demonstration,,
+,GeoStare,Tyvak Nano-Satellite Systems,Low Earth,Technology demonstration,,
+,ISX,NASA,Low Earth,Technology demonstration,,
+,NMTSat,New Mexico Institute of Mining and Technology,Low Earth,Technology demonstration,,
+,RSat-P,US Naval Academy Satellite Lab,Low Earth,Technology demonstration,,
+,Shields-1,NASA,Highly elliptical,Technology demonstration,,
+,STF-1,"NASA, WVU, WVSGC",Low Earth,Technology demonstration,,
+,TOMSat R³ (AeroCube 11),The Aerospace Corporation,Low Earth,Technology demonstration,,
+,Launch for NASA's ELaNa program.,,,,,
+"1/2 March[48]
+ 22:02-00:02",Atlas V 541,,Cape Canaveral SLC-41,,ULA,
+,GOES-S,NESDIS,Geosynchronous,Meteorology,,
+6 March[48],Soyuz ST-B / Fregat-MT,,Kourou ELS,,Arianespace,
+,O3b × 4,SES S.A.,Medium Earth,Communications,,
+12 March[46],Long March 3B / YZ-1[42],,Xichang,,CASC,
+,BeiDou-3 M5,CNSA,Medium Earth,Navigation,,
+,BeiDou-3 M6,CNSA,Medium Earth,Navigation,,
+15 March[46],Long March 3B/E,,Xichang,,CASC,
+,Apstar 6C,APT Satellite Holdings,Geosynchronous,Communications,,
+20 March[49],Ariane 5 ECA,,Kourou ELA-3,,Arianespace,
+,Superbird-B3 / DSN-1,JSAT / DSN / JSDF,Geosynchronous,Communications,,
+,HYLAS-4,Avanti,Geosynchronous,Communications,,
+21 March[48],Soyuz-FG,,Baikonur Site 1/5,,Roscosmos,
+,Soyuz MS-08 / 54S,Roscosmos,Low Earth (ISS),Expedition 55/56,,
+,Manned flight with three cosmonauts,,,,,
+22 March[50],PSLV-XL,,Satish Dhawan FLP,,ISRO,
+,IRNSS-1I,ISRO,Geosynchronous,Navigation,,
+"29 March[52]
+ 14:19:49",Falcon 9 Full Thrust,,Vandenberg SLC-4E,,SpaceX,
+,Iridium NEXT 41–50,Iridium,Low Earth,Communications,,
+,Will re-use a first-stage booster.[51],,,,,
+Late March (TBD),Soyuz-2-1v,,Plesetsk,,Roscosmos,
+,"Kosmos (number TBD, payload possibly called EMKA)[53]",Roscosmos,,,,
+March (TBD)[54],GSLV Mk II,,Satish Dhawan SLP,,ISRO,
+,GSAT-6A,ISRO,Geosynchronous,Communications,,
+March (TBD)[54],PSLV-CA,,Satish Dhawan,,ISRO,
+,Cartosat-3,ISRO,Low Earth (SSO),Earth observation,,
+March (TBD)[46],Landspace-1,,,,Landspace Technology Corporation,
+,,,,,,
+March (TBD)[46],Long March 2D,,Jiuquan,,CASC,
+,LKW-4,CAS,Low Earth,Earth observation,,
+Early 2018 (TBD)[55],LauncherOne,,"Cosmic Girl, Mojave",,Virgin Galactic,
+,To be announced,Virgin Galactic,TBA,Flight test,,
+,Maiden orbital flight.,,,,,
+Q1 (TBD)[46],Kuaizhou 1A,,Jiuquan SLS-E1[56],,CASIC,
+,Jilin-1 09,CNSA,Low Earth (SSO),Earth observation,,
+Q1 (TBD)[46],Kuaizhou 1A,,Jiuquan SLS-E1[56],,CASIC,
+,Jilin-1 10,CNSA,Low Earth (SSO),Earth observation,,
+Q1 (TBD)[46],Kuaizhou 1A,,Jiuquan SLS-E1[56],,CASIC,
+,Jilin-1 11,CNSA,Low Earth (SSO),Earth observation,,
+Q1 (TBD)[46],Kuaizhou 1A,,Jiuquan SLS-E1[56],,CASIC,
+,Jilin-1 12,CNSA,Low Earth (SSO),Earth observation,,
+Q1 (TBD)[46],Long March 3B,,Xichang,,CASC,
+,SupremeSat II,SupremeSAT,Geosynchronous,Communications,,
+Q1 (TBD)[53],Soyuz-2.1b / Fregat-M,,Plesetsk Site 43/4,,RVSN RF,
+,GLONASS-M 759,VKS,Medium Earth,Navigation,,
+Q1 (TBD)[53],Soyuz-2.1b / Fregat-M,,Plesetsk Site 43/4,,RVSN RF,
+,GLONASS-K 16,VKS,Medium Earth,Navigation,,
+Q1 (TBD)[53],Soyuz-2.1b / Fregat-M,,Plesetsk Site 43/4,,RVSN RF,
+,GLONASS-K2 213,VKS,Medium Earth,Navigation,,
